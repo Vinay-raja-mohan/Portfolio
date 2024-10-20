@@ -161,7 +161,7 @@
     /* widths for rows and containers
      */
     --width-full     : 100%;
-    --width-max      : 1200px;
+    --width-max      : 1300px;
     --width-wide     : 1400px;
     --width-wider    : 1600px;
     --width-widest   : 1800px;
@@ -744,7 +744,7 @@ textarea {
 
     .tab-6 {
         flex  : none;
-        width : 50%;
+        width : 51%;
     }
 
     .tab-7 {
@@ -4052,3 +4052,6 @@ img.u-pull-left {
     
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#B6B7C6", GradientType=1 );
 }
+
+
+
